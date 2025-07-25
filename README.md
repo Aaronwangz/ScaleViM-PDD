@@ -5,7 +5,7 @@ abstract:Remote sensing images are often degraded by atmospheric haze, which not
 
 ## 🧠 Network Architecture
 
-![Network Architecture](image/ScaleViM-PDD.png)
+![Network Architecture](image/ScaleVIM-PDD.png)
 
 ---
 
