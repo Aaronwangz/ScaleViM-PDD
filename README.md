@@ -26,8 +26,8 @@ The current open source code is less readable, but it can be trained and tested.
 While the code is being finalized, you can access the following components:
 
 - 🔹 **model weights**  
-  [📥 Download](通过网盘分享的文件：ScaleVIM-PDD
-链接: https://pan.baidu.com/s/18dS3bJoZM4-shghvlJrKuQ 提取码: 1230)
+  [📥 Download](ScaleVIM-PDD
+Link: https://pan.baidu.com/s/18dS3bJoZM4-shghvlJrKuQ Extraction code: 1230)
 
 
 - 🔹 **RSID dataset (used for training and evaluation)**  
