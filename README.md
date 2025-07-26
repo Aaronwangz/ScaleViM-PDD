@@ -35,7 +35,7 @@ Link: https://pan.baidu.com/s/18dS3bJoZM4-shghvlJrKuQ Extraction code: 1230)
 
 ## 🙏 Acknowledgment 🙏 
 
-Our project is based on **[EfficientViM](https://github.com/mlvlab/EfficientViM)**, and we are very grateful for this excellent work. Their contributions laid the foundation for advances in image restoration.
+Our project is based on **[EfficientViM](https://github.com/mlvlab/EfficientViM)**, and we are very grateful for this excellent work. Their efficient state-space model provides a new benchmark for many image domains.
 
 ---
 
