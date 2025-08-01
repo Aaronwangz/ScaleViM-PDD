@@ -16,8 +16,7 @@ This is the official PyTorch implementation of the paper:
 We train and test the code on **PyTorch 1.13.0 + CUDA 11.7**. The detailed configuration is mentioned in the paper.
 
 ### Create a new conda environment
-<pre lang="markdown"> 
-conda create -n ScaleViM-PDD python=3.8 
+<pre lang="markdown"> conda create -n ScaleViM-PDD python=3.8 
 conda activate ScaleViM-PDD  </pre>
 
 
