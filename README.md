@@ -11,16 +11,14 @@ This is the official PyTorch implementation of the paper:
 
 ---
 
-## 🚀 Getting Started
+### 🚀 Getting Started 
 
 We train and test the code on **PyTorch 1.13.0 + CUDA 11.7**. The detailed configuration is mentioned in the paper.
 
 ### Create a new conda environment
-
-```bash
+<pre lang="markdown"> 
 conda create -n ScaleViM-PDD python=3.8 
-conda activate ScaleViM-PDD
-
+conda activate ScaleViM-PDD  </pre>
 
 
 ## 📦 Available Resources 
@@ -39,7 +37,7 @@ Link: https://pan.baidu.com/s/18dS3bJoZM4-shghvlJrKuQ Extraction code: 1230)
 
 Our project is based on **[EfficientViM](https://github.com/mlvlab/EfficientViM)**, and we are very grateful for this excellent work. Their efficient state-space model provides a new benchmark for many image domains.
 
-## 📬 Contact
+## 📖 Citation
 If you find our work useful for your research, please consider citing us:
 <pre lang="markdown"> 
 @article{zhou2025scalevim,
