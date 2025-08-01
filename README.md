@@ -1,9 +1,8 @@
 # ScaleViM-PDD: Multi-Scale EfficientViM with Physical Decoupling and Dual-Domain Fusion for Remote Sensing Image Dehazing
-
-abstract:Remote sensing images are often degraded by atmospheric haze, which not only reduces image quality but also complicates information extraction, particularly in high-level visual analysis tasks such as object detection and scene classification. State-space models (SSMs) have recently emerged as a powerful paradigm for vision tasks, showing great promise due to their computational efficiency and robust capacity to model global dependencies. However, most existing learning-based dehazing methods lack physical interpretability, leading to weak generalization. Furthermore, they typically rely on spatial features while neglecting crucial frequency domain information, resulting in incomplete feature representation. To address these challenges, we propose ScaleViM-PDD, a novel network that enhances an SSM backbone with two key innovations: a Multi-scale EfficientViM with Physical Decoupling (ScaleViM-P) module and a Dual-Domain Fusion (DD Fusion) module. The ScaleViM-P module synergistically integrates a Physical Decoupling block within a multi-scale EfficientViM architecture. This design enables the network to mitigate haze interference in a physically grounded manner at each representational scale while simultaneously capturing global contextual information to adaptively handle complex haze distributions. To further address detail loss, the DD Fusion module replaces conventional skip connections by incorporating a novel Frequency Domain Module (FDM) alongside channel and position attention. This allows for a more effective fusion of spatial and frequency features, significantly improving the recovery of fine-grained details, including color and texture information. Extensive experiments on nine publicly available remote sensing datasets demonstrate that ScaleViM-PDD consistently surpasses state-of-the-art baselines in both qualitative and quantitative evaluations, highlighting its strong generalization ability.
-
-
-## 🧠 Network Architecture 🧠
+<pre lang="markdown"> 
+Hao Zhou, Yalun Wang, Wanting Peng, Xin Guan, and Tao Tao
+Remote Sens. 2025, 17(15), 2664; https://doi.org/10.3390/rs17152664 (registering DOI)
+</pre>
 
 ![Network Architecture](image/ScaleVIM-PDD.png)
 
