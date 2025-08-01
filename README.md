@@ -7,11 +7,6 @@ This is the official PyTorch implementation of the paper:
 > *Remote Sensing*, 2025  
 > [MDPI Link](https://www.mdpi.com/2072-4292/17/15/2664)
 
-Published in *Remote Sensing* (MDPI).  
-DOI: [10.3390/rs17152664](https://doi.org/10.3390/rs17152664)
-
-
-
 ![Network Architecture](image/ScaleVIM-PDD.png)
 
 ---
