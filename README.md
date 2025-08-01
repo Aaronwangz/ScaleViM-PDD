@@ -1,8 +1,16 @@
 # ScaleViM-PDD: Multi-Scale EfficientViM with Physical Decoupling and Dual-Domain Fusion for Remote Sensing Image Dehazing
-<pre lang="markdown"> 
-Hao Zhou, Yalun Wang, Wanting Peng, Xin Guan, and Tao Tao
-Remote Sens. 2025, 17(15), 2664; https://doi.org/10.3390/rs17152664 (registering DOI)
-</pre>
+
+This is the official PyTorch implementation of the paper:
+
+> **ScaleViM-PDD: Multi-Scale EfficientViM with Physical Decoupling and Dual-Domain Fusion for Remote Sensing Image Dehazing**  
+> Hao Zhou, Yalun Wang, Wanting Peng, Xin Guan, and Tao Tao  
+> *Remote Sensing*, 2025  
+> [MDPI Link](https://www.mdpi.com/2072-4292/17/15/2664)
+
+Published in *Remote Sensing* (MDPI).  
+DOI: [10.3390/rs17152664](https://doi.org/10.3390/rs17152664)
+
+
 
 ![Network Architecture](image/ScaleVIM-PDD.png)
 
@@ -17,8 +25,6 @@ We train and test the code on **PyTorch 1.13.0 + CUDA 11.7**. The detailed confi
 conda create -n ScaleViM-PDD python=3.8 
 conda activate ScaleViM-PDD  </pre>
 
-###  ⚠️ notice ⚠️
-This work is currently under second peer review in the RS journal. 
 
 ## 📦 Available Resources 📦
 
