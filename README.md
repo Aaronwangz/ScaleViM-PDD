@@ -41,7 +41,7 @@ If you find our work useful for your research, please consider citing us:
 <pre lang="markdown"> 
 @article{zhou2025scalevim,
   title     = {ScaleViM-PDD: Multi-Scale EfficientViM with Physical Decoupling and Dual-Domain Fusion for Remote Sensing Image Dehazing},
-  author    = {Zhou, Hao and Wang, Yu and Peng, Wen and Guan, Xiaowei and Tao, Ting},
+  author    = {Zhou, Hao and Wang, Yalun and Peng, Wanting and Guan, Xin and Tao, Tao},
   journal   = {Remote Sensing},
   volume    = {17},
   number    = {15},
