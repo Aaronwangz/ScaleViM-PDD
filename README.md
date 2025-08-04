@@ -13,7 +13,7 @@ We optimized EfficientViM and combined it with a physical module and a dual-doma
 
 ![Network Architecture](image/ScaleVIM-PDD.png)
 
-![Visual display](image/thin.png)(image/moderate.png)(image/thick.png)
+![Visual display](image/thin.png)
 
 ---
 
