@@ -9,8 +9,12 @@ This is the official PyTorch implementation of the paper:
 
 We optimized EfficientViM and combined it with a physical module and a dual-domain fusion module to propose a new network model, ScaleViM-PDD. This model achieves satisfactory results in remote sensing dehazing in both synthetic and real-world scenarios, and demonstrates strong generalization capabilities. The paper is available at the link above.
 
+---
+
 ![Network Architecture](image/ScaleVIM-PDD.png)
+
 ![Visual display](image/thin.png)(image/moderate.png)(image/thick.png)
+
 ---
 
 ### 🚀 Getting Started 
