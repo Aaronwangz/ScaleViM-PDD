@@ -38,7 +38,7 @@ Link: https://pan.baidu.com/s/18dS3bJoZM4-shghvlJrKuQ Extraction code: 1230)
 Our project is based on **[EfficientViM](https://github.com/mlvlab/EfficientViM)**, and we are very grateful for this excellent work. Their efficient state-space model provides a new benchmark for many image domains.
 
 ## 📖 Citation
-If you find our work useful for your research, please consider citing us:
+If you find our work helpful in your research, please consider citing it. We appreciate your support！😊
 <pre lang="markdown"> 
 @article{zhou2025scalevim,
   title     = {ScaleViM-PDD: Multi-Scale EfficientViM with Physical Decoupling and Dual-Domain Fusion for Remote Sensing Image Dehazing},
