@@ -1,4 +1,4 @@
-# ScaleViM-PDD: Multi-Scale EfficientViM with Physical Decoupling and Dual-Domain Fusion for Remote Sensing Image Dehazing
+# 【RS 2025】ScaleViM-PDD: Multi-Scale EfficientViM with Physical Decoupling and Dual-Domain Fusion for Remote Sensing Image Dehazing
 
 This is the official PyTorch implementation of the paper:
 
@@ -6,7 +6,7 @@ This is the official PyTorch implementation of the paper:
 > Hao Zhou, Yalun Wang, Wanting Peng, Xin Guan, and Tao Tao  
 > *Remote Sensing*, 2025  
 > [MDPI Link](https://www.mdpi.com/2072-4292/17/15/2664)
-
+We optimized EfficientViM and combined it with a physical module and a dual-domain fusion module to propose a new network model, ScaleViM-PDD. This model achieves satisfactory results in remote sensing dehazing in both synthetic and real-world scenarios, and demonstrates strong generalization capabilities. The paper is available at the link above.
 ![Network Architecture](image/ScaleVIM-PDD.png)
 
 ---
