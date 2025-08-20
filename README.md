@@ -43,8 +43,7 @@ Link: https://pan.baidu.com/s/18dS3bJoZM4-shghvlJrKuQ Extraction code: 1230)
 
 ## 📖 Citation
 If you find our work helpful in your research, please consider citing it. We appreciate your support！😊
-<pre lang="markdown"> 
-@article{zhou2025scalevim,
+<pre lang="markdown"> @article{zhou2025scalevim,
   title     = {ScaleViM-PDD: Multi-Scale EfficientViM with Physical Decoupling and Dual-Domain Fusion for Remote Sensing Image Dehazing},
   author    = {Zhou, Hao and Wang, Yalun and Peng, Wanting and Guan, Xin and Tao, Tao},
   journal   = {Remote Sensing},
@@ -55,9 +54,7 @@ If you find our work helpful in your research, please consider citing it. We app
   publisher = {MDPI},
   doi       = {10.3390/rs17152664},
   url       = {https://doi.org/10.3390/rs17152664}
-}
-  </pre>
-
+} </pre>
 ---
 ## 🙏 Acknowledgment 
 
