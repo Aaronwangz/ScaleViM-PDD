@@ -10,9 +10,12 @@ This is the official PyTorch implementation of the paper:
 We optimized EfficientViM and combined it with a physical module and a dual-domain fusion module to propose a new network model, ScaleViM-PDD. This model achieves satisfactory results in remote sensing dehazing in both synthetic and real-world scenarios, and demonstrates strong generalization capabilities. The paper is available at the link above.
 
 ---
+## 🧠 Network Architecture
 
 ![Network Architecture](image/ScaleVIM-PDD.png)
 
+---
+## 📊 Visualize the results
 ![Visual display](image/thin.jpg)![Visual display](image/moderate.jpg)![Visual display](image/thick.jpg)![Visual display](image/RR01.jpg)![Visual display](image/RR02.jpg)![Visual display](image/RR03.jpg)
 
 ---
@@ -34,13 +37,9 @@ While the code is being finalized, you can access the following components:
   [📥 Download](ScaleVIM-PDD
 Link: https://pan.baidu.com/s/18dS3bJoZM4-shghvlJrKuQ Extraction code: 1230)
 
-
 - 🔹 **RSID dataset (used for training and evaluation)**  
   [📥 Download](https://drive.google.com/drive/folders/1abSw9GWyyOJINWCRNHBUoJBBw3FCttaS?usp=drive_link)
 
-## 🙏 Acknowledgment 
-
-Our project is based on **[EfficientViM](https://github.com/mlvlab/EfficientViM)**, and we are very grateful for this excellent work. Their efficient state-space model provides a new benchmark for many image domains.
 
 ## 📖 Citation
 If you find our work helpful in your research, please consider citing it. We appreciate your support！😊
@@ -60,5 +59,11 @@ If you find our work helpful in your research, please consider citing it. We app
   </pre>
 
 ---
+## 🙏 Acknowledgment 
 
-Stay tuned for the full release, including training/inference code and detailed documentation. If you have any questions, please feel free to contact us at aaron@ahut.edu.cn
+Our project is based on **[EfficientViM](https://github.com/mlvlab/EfficientViM)**, and we are very grateful for this excellent work. Their efficient state-space model provides a new benchmark for many image domains.
+
+---
+## 📫 Contact
+If you have any questions, please feel free to contact us:  
+✉️ aaron@ahut.edu.cn
